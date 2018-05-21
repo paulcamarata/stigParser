@@ -1,3 +1,2 @@
-PROXY-JBOSS.ckl
-PROXY-RHEL.ckl
-date.csv
+*.ckl
+*.csv
